@@ -72,6 +72,26 @@ This project is written in a SQLite-friendly style because it uses functions lik
 3. Run `data.sql` to insert sample data.
 4. Run `analysis_queries.sql` to view the analysis.
 
+## Sample Output Screenshots
+
+Here are a few query results from the project:
+
+### Total Revenue by Book
+
+<img src="screenshots/total_revenue.png" alt="Total Revenue by Book" width="850" />
+
+### Customer Segmentation
+
+<img src="screenshots/segment_customer.png" alt="Customer Segmentation" width="850" />
+
+### Marketing ROI
+
+<img src="screenshots/marketing_roi.png" alt="Marketing ROI" width="850" />
+
+### Monthly Sales Trend
+
+<img src="screenshots/monthly_sales_trend.png" alt="Monthly Sales Trend" width="850" />
+
 ## What I Learned
 
 This project helped me understand how SQL can be used for more than just fetching rows. I got better at joining tables, building business-focused queries, and turning raw data into simple insights. I also practiced thinking from a business point of view, not just a technical one.
